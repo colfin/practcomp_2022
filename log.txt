@@ -1,0 +1,63 @@
+    1  pwd
+    2  ls
+    3  ls -l
+    4  ls /home
+    5  cd /examples.desktop
+    6  cd /home/finlayc21/examples.desktop
+    7  pwd
+    8  ls
+    9  mkdir praccomp
+   10  ls
+   11  cd praccomp/
+   12  touch test.txt
+   13  ls
+   14  ls -la
+   15  echo $PATH
+   16  echo $path
+   17  nano test.txt 
+   18  less test.txt 
+   19  ls -lh
+   20  rm test.txt 
+   21  ls
+   22  touch test.txt
+   23  mkdir blah
+   24  ls
+   25  rm blah
+   26  rmdir blah
+   27  ls
+   28  mkdir blah
+   29  touch blah/test2.txt
+   30  rmdir blah/
+   31  rm -r blah
+   32  cd
+   33  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+   34  ls
+   35  bash Miniconda3-latest-Linux-x86_64.sh 
+   36  exit
+   37  ls
+   38  md5sum Miniconda3-latest-Linux-x86_64.sh 
+   39  head Miniconda3-latest-Linux-x86_64.sh 
+   40  conda install mamba -c conda-forge
+   41  mamba
+   42  mamba install htop
+   43  mamba install htop -c conda-forge
+   44  htop
+   45  ls
+   46  cd praccomp/
+   47  git
+   48  git clone https://github.com/colfin/practcomp_2022.git
+   49  ls
+   50  cd practcomp_2022/
+   51  nano README.md
+   52  ls
+   53  git status
+   54  git add README.md 
+   55  git status
+   56  git commit -m "Added README.md"
+   57  git config --global user.email "cofinlay@gmail.com"
+   58  git config --global user.name "Colin Finlay"
+   59  git commit -m "Added README.md"
+   60  git status
+   61  git push
+   62  history
+   63  history > log.txt
