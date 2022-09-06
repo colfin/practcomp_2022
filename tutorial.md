@@ -23,6 +23,27 @@ _You **can** combine them_
 _The Way We Were_ by G.A. Parker
 
 > A sweet and friendly porcupine, \
-> Snuffled up; his eyes met mine, \
+> Snuffled up; his eyes met mine,
+
+## LISTS
+
+Unordered
+* Item 1
+* Item 2
+	* Item 2a
+	* Item 2b
+
+Ordered
+1. Item 1
+2. Item 2
+3. Item 3
+	* Item 3a
+	* Item 3b
+
+## BULLET POINTS
+
+- Point 1
+- Point 2
+- Point 3
 
 
