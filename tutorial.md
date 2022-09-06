@@ -48,7 +48,7 @@ Ordered
 
 ## IMAGES
 
-![ECU Logo](https://en.wikipedia.org/wiki/East_Carolina_Pirates#/media/File:East_Carolina_Pirates_logo.svg)
+![ECU Logo](https://en.wikipedia.org/wiki/East_Carolina_Pirates)
 
 ## LINKS
 
@@ -57,4 +57,25 @@ https://brewerlab.net - automatic
 [Brewer Lab](https://brewerlab.net)
 
 
+## BACKSLASH ESCAPE
 
+\*Literal asterisks\*
+
+## FENCED CODE BLOCKS
+
+Generic example:
+
+```
+echo "Hello"
+```
+
+Python example:
+
+```python
+print("Hello")
+```
+
+R example:
+```r
+x <- 4^2
+```
